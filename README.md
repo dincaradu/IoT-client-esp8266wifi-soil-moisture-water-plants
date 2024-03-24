@@ -22,7 +22,8 @@ Example sketch built for ESP8266 board, with soil moisture sensor and water pump
 
 ## Other required components
 
-- 2N2222 transistor
+- 1 x 2N2222 transistor
+- 1 x 1k resistor
 - a bunch of wires :))
 
 Hope it helps! Have fun!
