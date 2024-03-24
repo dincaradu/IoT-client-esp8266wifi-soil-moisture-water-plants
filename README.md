@@ -2,6 +2,8 @@
 
 Example sketch built for ESP8266 board, with soil moisture sensor and water pump. It also connects to a server through WebSockets and sends the soil moisture measurements, as well as an update everytime the pump is turned on.
 
+![Water the plants with ESP8266, MH soil sensor and 3v water pump](https://github.com/dincaradu/IoT-client-esp8266wifi-soil-moisture-water-plants/documentation/20240324_160703.jpg)
+
 
 ## Functionalities
 
